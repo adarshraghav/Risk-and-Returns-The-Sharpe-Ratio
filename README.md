@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Risk-and-Returns-The-Sharpe-Ratio 
+  Risk and Returns The Sharpe Ratio 
 </h1>
 <p style='text-align: justify;'>
 There are some lessons from my father that I have always been keen on following, from being calm and patient, smart to being kind and valuing the smallest of things given to us in life. Even when it comes to investments it is my dad that I reach out to first. However, of all the advice he has ever given me I’m always perplexed of his advice to prefer long term investments over short-term. Now, see ever since childhood I have been taught that investments into stock markets or mutual funds/SIPs are the works of devils and people often get lost or tend to loose large sums of money all at once. I remember, watching a lot of television adverts back in the day, that had disclaimers like:
